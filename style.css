@@ -1,0 +1,53 @@
+/* Gotham Fonts */
+
+@font-face {
+  font-family: 'Gotham Bold';
+  src: url('./Gotham-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham Bold Italic';
+  src: url('./Gotham-BoldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham Light';
+  src: url('./Gotham-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham Light Italic';
+  src: url('./Gotham-LightItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham Medium';
+  src: url('./Gotham-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Gotham Book Italic';
+  src: url('./GothamBook-Italic.ttf') format('truetype');
+}
+
+/* Knockout Fonts */
+
+@font-face {
+  font-family: 'Knockout Junior Sumo';
+  src: url('./Knockout-HTF34-JuniorSumo.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Knockout Welterweight';
+  src: url('./Knockout-HTF50-Welterweight.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Knockout Middleweight';
+  src: url('./Knockout-HTF51-Middleweight.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Knockout Heviweight';
+  src: url('./Knockout-HTF53-Heviweight.otf') format('opentype');
+}
