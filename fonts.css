@@ -1,0 +1,13 @@
+/* Gotham Fonts */ 
+@font-face {font-family: 'Gotham Bold'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-Bold.otf') format('opentype'); } 
+@font-face {font-family: 'Gotham Bold Italic'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-BoldItalic.otf') format('opentype'); } 
+@font-face {font-family: 'Gotham Light'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-Light.otf') format('opentype'); } 
+@font-face {font-family: 'Gotham Light Italic'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-LightItalic.otf') format('opentype'); } 
+@font-face {font-family: 'Gotham Medium'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-Medium.otf') format('opentype'); } 
+@font-face {font-family: 'Gotham Book Italic'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/GothamBook-Italic.ttf') format('truetype'); } 
+
+/* Knockout Fonts */ 
+@font-face {font-family: 'Knockout Junior Sumo'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Knockout-HTF34-JuniorSumo.otf') format('opentype'); } 
+@font-face {font-family: 'Knockout Welterweight'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Knockout-HTF50-Welterweight.otf') format('opentype'); } 
+@font-face {font-family: 'Knockout Middleweight'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Knockout-HTF51-Middleweight.otf') format('opentype'); } 
+@font-face {font-family: 'Knockout Heviweight'; src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Knockout-HTF53-Heviweight.otf') format('opentype'); }
