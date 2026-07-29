@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Gotham Bold';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/braymott/email-fonts/Gotham-Bold.otf') format('opentype');
+}
